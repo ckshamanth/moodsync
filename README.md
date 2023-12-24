@@ -1,7 +1,8 @@
 # Emotion-Music-Recommendation
 A project recommending music based on facial expressions using the FER 2013 dataset and the Spotify API.
 
-![Image](<image_path>)
+![moodsync ss](https://github.com/ckshamanth/moodsync/assets/122350335/b4056eeb-9c91-47d9-be2d-b36a36933d72)
+
 
 # Project Overview:
 Trained on the FER 2013 dataset, the emotion recognition model detects seven emotions. The application captures live video from the webcam, predicts emotions using the model, and fetches corresponding song playlists from Spotify via the spotipy wrapper, displaying recommendations on the screen.
